@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/LAT2Xa4VaZNe2P2CLc1Czx9nykxqISR8l2gZGXD6v4=",
+  "Source": "ContainerPOC",
+  "BasePath": "_content/ContainerPOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
