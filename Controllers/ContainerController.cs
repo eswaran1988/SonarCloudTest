@@ -1,3 +1,4 @@
+using ContainerPOC.Repository;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ContainerPOC.Controllers
@@ -17,9 +18,11 @@ namespace ContainerPOC.Controllers
 
         [HttpGet]
         [Route("test")]
-        public string Get()
+        public decimal Get()
         {
-            return "Mindsprint";
+            var logicRepo = new LogicalRepository();
+            logicRepo.getCalculations(10, 30);
+            return logicRepo.getCalculations(40, 30);
         }
     }
 }

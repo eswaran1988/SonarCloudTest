@@ -466,11 +466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Working Directory\\ContainerPOC\\ContainerPOC\\ContainerPOC.csproj",
+      "projectUniqueName": "D:\\SonarCloud Test\\SonarCloudTest\\ContainerPOC.csproj",
       "projectName": "ContainerPOC",
-      "projectPath": "C:\\Working Directory\\ContainerPOC\\ContainerPOC\\ContainerPOC.csproj",
+      "projectPath": "D:\\SonarCloud Test\\SonarCloudTest\\ContainerPOC.csproj",
       "packagesPath": "C:\\Users\\eswaran.p\\.nuget\\packages\\",
-      "outputPath": "C:\\Working Directory\\ContainerPOC\\ContainerPOC\\obj\\",
+      "outputPath": "D:\\SonarCloud Test\\SonarCloudTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
